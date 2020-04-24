@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "F66F11EA-19F0-45CB-A5E0-8CB5F250A6FF"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D2E3CF10-59DE-4030-BCDB-938FA6690BA1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GithubSearch/MainPage/ResultCell/ResultCellViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "42"
+            endingLineNumber = "42"
+            landmarkName = "getDetial(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "D2E3CF10-59DE-4030-BCDB-938FA6690BA1 - f2704ebc56bafa61"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;GithubSearch.UserDetail, GithubSearch.NetworkError&gt;) -&gt; () in GithubSearch.ResultCellViewModel.getDetial(GithubSearch.GitUser) -&gt; ()"
+                  moduleName = "GithubSearch"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/chaowang/Desktop/GithubSearch/GithubSearch/MainPage/ResultCell/ResultCellViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "53"
+                  endingLineNumber = "53"
+                  offsetFromSymbolStart = "156">
+               </Location>
+               <Location
+                  uuid = "D2E3CF10-59DE-4030-BCDB-938FA6690BA1 - f2704ebc56bafa61"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;GithubSearch.UserDetail, GithubSearch.NetworkError&gt;) -&gt; () in GithubSearch.ResultCellViewModel.getDetial(GithubSearch.GitUser) -&gt; ()"
+                  moduleName = "GithubSearch"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/chaowang/Desktop/GithubSearch/GithubSearch/MainPage/ResultCell/ResultCellViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "53"
+                  endingLineNumber = "53"
+                  offsetFromSymbolStart = "181">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D277A59E-3E22-4B77-AEAA-28383CD71D6A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GithubSearch/SecondPage/SecondPageViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "40"
+            endingLineNumber = "40"
+            landmarkName = "searchRepo(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F4B4151A-6D35-4F07-9A3A-E31A50EADB64"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GithubSearch/MainPage/ResultCell/ResultCellViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "getImage(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F4B4151A-6D35-4F07-9A3A-E31A50EADB64 - 24f76c12f5cd8818"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Swift.Optional&lt;Swift.AnyObject&gt;, GithubSearch.NetworkError&gt;) -&gt; () in GithubSearch.ResultCellViewModel.getImage(GithubSearch.GitUser) -&gt; ()"
+                  moduleName = "GithubSearch"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/chaowang/Desktop/GithubSearch/GithubSearch/MainPage/ResultCell/ResultCellViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "205">
+               </Location>
+               <Location
+                  uuid = "F4B4151A-6D35-4F07-9A3A-E31A50EADB64 - 24f76c12f5cd8818"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Swift.Optional&lt;Swift.AnyObject&gt;, GithubSearch.NetworkError&gt;) -&gt; () in GithubSearch.ResultCellViewModel.getImage(GithubSearch.GitUser) -&gt; ()"
+                  moduleName = "GithubSearch"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/chaowang/Desktop/GithubSearch/GithubSearch/MainPage/ResultCell/ResultCellViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "219">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7F32245F-82C2-4834-B6D3-DE2DF3A5D9BA"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GithubSearch/MainPage/MainPageViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "getUsers(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "82AE4319-1DA5-40C6-A04A-17BEF680F5BC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GithubSearch/MainPage/MainPageViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "getUsers(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "82AE4319-1DA5-40C6-A04A-17BEF680F5BC - 1db87366ab2cd81"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GithubSearch.MainPageViewModel.getUsers(Swift.String) -&gt; ()"
+                  moduleName = "GithubSearch"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/chaowang/Desktop/GithubSearch/GithubSearch/MainPage/MainPageViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "337">
+               </Location>
+               <Location
+                  uuid = "82AE4319-1DA5-40C6-A04A-17BEF680F5BC - 3600b62efbf37887"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Swift.Array&lt;GithubSearch.GitUser&gt;, GithubSearch.NetworkError&gt;) -&gt; () in GithubSearch.MainPageViewModel.getUsers(Swift.String) -&gt; ()"
+                  moduleName = "GithubSearch"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/chaowang/Desktop/GithubSearch/GithubSearch/MainPage/MainPageViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "236">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
